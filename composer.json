@@ -1,0 +1,17 @@
+{
+  "name": "thiago/login_registro",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Thiago",
+      "email": "thiagodev78@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {}
+}
